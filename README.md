@@ -11,5 +11,5 @@
 # The Game Interface
 ![picture](Level.png) 
 
-# Demo 
+# Demo 🎮
 https://fatmah-aloudah.github.io/Frogger-Arcade-Game/
