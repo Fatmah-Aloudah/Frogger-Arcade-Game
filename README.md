@@ -1,4 +1,4 @@
-# Frogger-Arcade-Game
+# Frogger-Arcade-Game 
 It is a game where the player has to avoid the bugs and reach the river safely
 
 # How to Play
