@@ -1,5 +1,4 @@
 # Frogger-Arcade-Game 
-It is a game where the player has to avoid the bugs and reach the river safely
 
 # How to Play
 1-Open the game using the browser.<br/>
